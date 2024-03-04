@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "521686334194",
+    "firebase_url": "https://friend-chat-44525-default-rtdb.firebaseio.com",
+    "project_id": "friend-chat-44525",
+    "storage_bucket": "friend-chat-44525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521686334194:android:7c2dfcd2864b842321ee6b",
+        "android_client_info": {
+          "package_name": "com.friendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521686334194-ld0pkdmpch394dauk0udak5mh6b5pmv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friendapp",
+            "certificate_hash": "c90bdabc2c66145e98997c240481d2f701aa643d"
+          }
+        },
+        {
+          "client_id": "521686334194-tonicdk4iasvtch9u81lqlorsqn2h6uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friendapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCohGm2oXlqK4DnrjK_n0K6-7pIkVI_Hrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521686334194-m1v62pjhj6758mvvt3jr1vens5cvnodu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
